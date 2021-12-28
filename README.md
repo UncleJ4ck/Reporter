@@ -23,7 +23,7 @@ Open the terminal and type following commands
 ------------------------------------------------------------------------
 
 <p align="center">
-<img src="https://raw.githubusercontent.com/UncleJ1ck/Reporter/main/img/reporter.png">
+<img src="https://i.imgur.com/2OZNTXA.png">
 
 
 ------------------------------------------------------------------------
