@@ -30,4 +30,4 @@ Open the terminal and type following commands
   
 # Note
 
-I can update the script over time
+I can update the program over time
