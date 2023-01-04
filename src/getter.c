@@ -42,7 +42,7 @@ void getter() {
             getter(); 
         break;
         case 8 :
-            system("nmap -sC -sV -p- -vvv -O --script vuln $(ip route get 1.2.3.4 | awk '{print $7}')");
+            system("wget https://raw.githubusercontent.com/mzet-/linux-exploit-suggester/master/linux-exploit-suggester.sh -O les.sh");
             getter(); 
         break;
         case 9 :
